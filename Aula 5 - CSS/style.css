@@ -1,0 +1,25 @@
+.main-title{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+li{
+    margin: 20px;
+    background-color: rgb(230, 196, 195);
+    border: 2px solid;
+    border-style: dotted;
+    border-color: red;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    border-style:dashed;
+  }
+
+
