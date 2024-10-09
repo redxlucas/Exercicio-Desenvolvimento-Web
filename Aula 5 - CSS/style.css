@@ -1,3 +1,7 @@
+* {
+    margin: 0px;
+}
+
 .main-title{
     background-color: black;
     text-align: center;
@@ -9,7 +13,7 @@ body{
 }
 
 li{
-    margin: 20px;
+    margin: 30px;
     background-color: rgb(230, 196, 195);
     border: 2px solid;
     border-style: dotted;
@@ -20,6 +24,35 @@ table, th, td {
     border: 1px solid;
     border-collapse: collapse;
     border-style:dashed;
-  }
+    border-color: blue;
+    margin: auto;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(160, 160, 255);
+}
+
+td {
+    background-color: rgb(204, 216, 216);
+}
+
+#cell-two{
+    color: red;
+}
+
+.google-link {
+    margin: 20px;
+}
+
+a:link{
+    color: rgba(182, 0, 0, 0.705);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+
 
 
