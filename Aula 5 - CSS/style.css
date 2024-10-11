@@ -2,17 +2,17 @@
     margin: 0px;
 }
 
-.main-title{
+.main-title {
     background-color: black;
     text-align: center;
     color: white;
 }
 
-body{
+body {
     background-color: aquamarine;
 }
 
-li{
+li {
     margin: 30px;
     background-color: rgb(230, 196, 195);
     border: 2px solid;
@@ -20,10 +20,12 @@ li{
     border-color: red;
 }
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid;
     border-collapse: collapse;
-    border-style:dashed;
+    border-style: dashed;
     border-color: blue;
     margin: auto;
     text-align: center;
@@ -37,7 +39,7 @@ td {
     background-color: rgb(204, 216, 216);
 }
 
-#cell-two{
+#cell-two {
     color: red;
 }
 
@@ -45,14 +47,8 @@ td {
     margin: 20px;
 }
 
-a:link{
+a:link {
     color: rgba(182, 0, 0, 0.705);
     text-decoration: none;
     font-weight: bold;
 }
-
-
-
-
-
-
